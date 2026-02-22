@@ -33,3 +33,8 @@ model.save("audio_deepfake_model.h5")
 
 # Save the StandardScaler
 joblib.dump(scaler, "audio_scaler.pkl")
+
+  streamlit app Screenshot
+<img width="1907" height="866" alt="image" src="https://github.com/user-attachments/assets/8fc4226d-61b0-4189-ac81-425e7506e1a2" />
+
+<img width="1389" height="855" alt="image" src="https://github.com/user-attachments/assets/c267811c-0b67-4ac4-bd66-fec67ba4bcf6" />
